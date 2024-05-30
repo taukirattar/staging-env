@@ -1,0 +1,108 @@
+2024-05-29 17:40:00.806 - Running log cleanup every 10 minutes
+2024-05-29 17:40:00.809 - Deleted old log file: 20240529-1725-01-error-console-logs
+2024-05-29 17:40:00.812 - Deleted old log file: 20240529-1730-01-error-console-logs
+2024-05-29 17:40:14.892 -  react front end error - Error: Error fetching data
+2024-05-29 17:43:43.791 - Server Started at PORT:3000
+2024-05-29 17:43:43.867 - Connected to MySQL database!
+2024-05-29 17:43:56.664 - Server Started at PORT:3000
+2024-05-29 17:43:56.725 - Connected to MySQL database!
+2024-05-29 17:44:14.320 - Server Started at PORT:3000
+2024-05-29 17:44:14.388 - Connected to MySQL database!
+2024-05-29 17:44:55.295 -  react front end error - Error: Error fetching data
+2024-05-29 17:45:01.027 -  react front end error - Error: Error fetching data
+
+2024-05-29 18:24:17.029 - Server Started at PORT:3000
+2024-05-29 18:24:17.100 - Connected to MySQL database!
+2024-05-29 18:24:48.610 - Server Started at PORT:3000
+2024-05-29 18:24:48.709 - Connected to MySQL database!
+2024-05-29 18:24:53.573 - Bulk email sent successfully:
+2024-05-29 18:27:40.914 - Server Started at PORT:3000
+2024-05-29 18:27:40.967 - Connected to MySQL database!
+2024-05-29 18:31:12.512 - Bulk email sent successfully:
+2024-05-29 18:32:43.852 - Bulk email sent successfully:
+2024-05-29 18:33:46.755 - Bulk email sent successfully:
+2024-05-29 18:34:35.520 - Bulk email sent successfully:
+2024-05-29 18:35:47.223 - Bulk email sent successfully:
+2024-05-29 18:36:27.416 - Bulk email sent successfully:
+2024-05-29 18:37:03.169 - Bulk email sent successfully:
+2024-05-29 18:45:05.766 - Bulk email sent successfully:
+2024-05-29 18:46:48.514 - Bulk email sent successfully:
+2024-05-29 18:48:07.841 - Bulk email sent successfully:
+2024-05-29 18:49:01.032 - Bulk email sent successfully:
+2024-05-29 18:50:30.605 - Bulk email sent successfully:
+2024-05-29 19:35:37.734 -  react front end error - ReferenceError: capitalizeWords is not defined
+2024-05-29 19:35:37.747 -  react front end error - ReferenceError: capitalizeWords is not defined
+2024-05-29 19:35:37.793 -  react front end error - ReferenceError: capitalizeWords is not defined
+2024-05-29 20:26:03.637 - UzairK123
+2024-05-29 20:26:13.292 - UzairK123
+2024-05-29 20:26:25.906 - UzairK123
+2024-05-29 20:26:36.904 - UzairK123
+2024-05-29 20:26:54.503 - AfrinS
+2024-05-29 20:38:08.725 - Server Started at PORT:3000
+2024-05-29 20:38:08.780 - Connected to MySQL database!
+2024-05-29 20:43:46.216 - Server Started at PORT:3000
+2024-05-29 20:43:46.259 - Connected to MySQL database!
+2024-05-29 21:01:04.534 -  react front end error - TypeError: Cannot read properties of undefined (reading 'id')
+2024-05-29 21:01:04.541 -  react front end error - TypeError: Cannot read properties of undefined (reading 'id')
+2024-05-29 21:01:04.552 -  react front end error - TypeError: Cannot read properties of undefined (reading 'id')
+2024-05-29 21:01:07.333 -  react front end error - TypeError: Cannot read properties of undefined (reading 'length')
+2024-05-29 21:07:59.171 - Server Started at PORT:3000
+2024-05-29 21:07:59.217 - Connected to MySQL database!
+2024-05-29 21:16:29.734 - Server Started at PORT:3000
+2024-05-29 21:16:29.788 - Connected to MySQL database!
+2024-05-29 21:16:35.690 - idea
+2024-05-29 21:21:17.265 - Server Started at PORT:3000
+2024-05-29 21:21:17.353 - Connected to MySQL database!
+2024-05-29 21:21:23.101 - idea
+2024-05-29 21:23:04.894 - idea
+2024-05-29 21:23:06.913 - idea
+2024-05-29 21:23:07.889 - idea
+2024-05-29 21:23:26.151 - Server Started at PORT:3000
+2024-05-29 21:23:26.196 - Connected to MySQL database!
+2024-05-29 21:23:33.576 - idea
+2024-05-29 21:23:45.440 - idea
+2024-05-29 21:26:51.403 - idea
+2024-05-29 21:29:07.740 - idea
+2024-05-29 21:34:50.630 - idea
+2024-05-29 21:36:21.679 - idea
+2024-05-29 21:36:30.386 - idea
+2024-05-29 21:36:49.017 - idea
+2024-05-29 21:36:51.032 - idea
+2024-05-29 21:36:56.238 - idea
+2024-05-29 21:38:37.363 - Error: Unknown column 'undefined' in 'where clause'
+2024-05-29 21:38:37.416 - idea
+2024-05-29 21:40:26.043 - Server Started at PORT:3000
+2024-05-29 21:40:26.095 - Connected to MySQL database!
+2024-05-29 21:42:29.589 - Server Started at PORT:3000
+2024-05-29 21:42:30.010 - Connected to MySQL database!
+2024-05-29 22:37:09.841 - Server Started at PORT:3000
+2024-05-29 22:38:15.866 - Server Started at PORT:3000
+2024-05-29 22:38:28.711 - Server Started at PORT:3000
+2024-05-29 22:38:28.751 - Connected to MySQL database!
+2024-05-29 22:39:39.320 - Server Started at PORT:3000
+2024-05-29 22:39:39.384 - Connected to MySQL database!
+2024-05-29 22:44:07.456 - Message sent: %s
+2024-05-29 22:52:50.601 - Server Started at PORT:3000
+2024-05-29 22:52:50.683 - Connected to MySQL database!
+2024-05-29 22:53:21.523 - Server Started at PORT:3000
+2024-05-29 22:53:21.552 - Connected to MySQL database!
+2024-05-29 22:57:41.643 - Server Started at PORT:3000
+2024-05-29 22:57:41.687 - Connected to MySQL database!
+2024-05-29 22:57:48.595 - Server Started at PORT:3000
+2024-05-29 22:57:48.629 - Connected to MySQL database!
+2024-05-29 23:00:30.051 - Server Started at PORT:3000
+2024-05-29 23:00:30.085 - Connected to MySQL database!
+2024-05-29 23:07:34.384 - AfrinS
+2024-05-29 23:09:50.836 - Message sent: %s
+2024-05-29 23:12:41.570 - Server Started at PORT:3000
+2024-05-29 23:12:41.684 - Connected to MySQL database!
+2024-05-29 23:18:54.065 - Server Started at PORT:3000
+2024-05-29 23:18:54.171 - Connected to MySQL database!
+2024-05-29 23:20:03.615 - Server Started at PORT:3000
+2024-05-29 23:20:03.660 - Connected to MySQL database!
+2024-05-29 23:20:32.934 - Message sent: %s
+2024-05-29 23:21:11.072 - TypeError: Cannot read properties of undefined (reading 'team_id')
+2024-05-29 23:28:06.478 - Server Started at PORT:3000
+2024-05-29 23:28:06.510 - Connected to MySQL database!
+2024-05-29 23:28:21.196 - Bulk email sent successfully:
+2024-05-29 23:29:54.737 - AfrinS
